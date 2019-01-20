@@ -1,4 +1,5 @@
 <Version: 1.05>
 /data/Mini+Game+OX_V1.1.rar http://download1511.mediafire.com/uy67bvmkmkqg/7wp6tghgg1hlcv0/Mini+Game+OX_V1.1.rar
 <Version: 1.06>
+/data/test.jpg https://i.imgur.com/F3qgcdbm.png
 <End of Version>
