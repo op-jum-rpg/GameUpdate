@@ -1,4 +1,5 @@
 <Version: 1.08>
+/data/test2.jpg https://i.imgur.com/F3qgcdbm.png
 <Version: 1.06>
 /data/test.jpg https://i.imgur.com/F3qgcdbm.png
 <Version: 1.05>
