@@ -1,10 +1,8 @@
-<Version: 1.01>
-
-<Version: 1.02>
+<Version: 1.04>
 /data/test.zip https://wordpress.org/latest.zip
 
 <Version: 1.03>
 /data/Mini+Game+OX_V1.1.rar http://www.mediafire.com/file/7wp6tghgg1hlcv0/Mini+Game+OX_V1.1.rar
 
-<Version: 1.04>
+<Version: 1.02>
 <End of Version>
