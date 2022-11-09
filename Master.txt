@@ -1,7 +1,5 @@
-<Version: 1.08>
+<Version: 1.02>
 /data/test2.jpg https://i.imgur.com/F3qgcdbm.png
-<Version: 1.06>
+<Version: 1.01>
 /data/test.jpg https://i.imgur.com/F3qgcdbm.png
-<Version: 1.05>
-/data/Mini+Game+OX_V1.1.rar http://download1511.mediafire.com/uy67bvmkmkqg/7wp6tghgg1hlcv0/Mini+Game+OX_V1.1.rar
 <End of Version>
