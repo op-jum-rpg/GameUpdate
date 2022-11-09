@@ -1,4 +1,4 @@
-<Version: 2.00>
+<Version: 1.08>
 /data/test411aa.jpg https://i.imgur.com/wMF3lGm.png
 <Version: 1.07>
 /data/test411.jpg https://i.imgur.com/wMF3lGm.png
